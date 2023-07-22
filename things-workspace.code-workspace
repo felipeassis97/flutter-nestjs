@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "things_backend"
+		},
+		{
+			"path": "things_client"
+		}
+	],
+	"settings": {}
+}
